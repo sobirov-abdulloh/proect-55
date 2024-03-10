@@ -1,0 +1,31 @@
+/* .soz1 {
+    color: rgb(41, 214, 35);
+    background-color: rgb(52, 52, 206);
+    width: 50%;
+
+} */
+
+/* ul {
+    background-color: aqua;
+    color: blueviolet;
+} */
+
+/* li {
+    list-style: none;
+    color: blue
+} */
+.box1{
+    background-color: blue;
+    width: 50%;
+    height: 100px;
+}
+.box2{
+    background-color: brown;
+    width: 50%;
+    height: 50px;
+}
+.box3{
+    width: 80%;
+    background-color: red;
+    height: 30px;
+}
